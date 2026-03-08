@@ -1,0 +1,92 @@
+{
+    "module": "CV-2",
+    "input_from": "CV-1",
+    "run_timestamp": "20260307_230010",
+    "subjects": {
+        "Subject_1": {
+            "hr_bpm": 102.23,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_2": {
+            "hr_bpm": 104.42,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_3": {
+            "hr_bpm": 92.53,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_4": {
+            "hr_bpm": 111.68,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_5": {
+            "hr_bpm": 111.75,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_6": {
+            "hr_bpm": 68.19,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_7": {
+            "hr_bpm": 80.72,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_8": {
+            "hr_bpm": 65.68,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_9": {
+            "hr_bpm": 108.95,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_10": {
+            "hr_bpm": 85.21,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_11": {
+            "hr_bpm": 76.57,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_12": {
+            "hr_bpm": 110.44,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_13": {
+            "hr_bpm": 63.67,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_14": {
+            "hr_bpm": 98.56,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_15": {
+            "hr_bpm": 53.61,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_16": {
+            "hr_bpm": 90.23,
+            "method_used": "GREEN",
+            "source_type": "video"
+        },
+        "Subject_17": {
+            "hr_bpm": 87.34,
+            "method_used": "GREEN",
+            "source_type": "video"
+        }
+    }
+}
