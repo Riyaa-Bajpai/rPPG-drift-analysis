@@ -1,0 +1,356 @@
+{
+    "Subject_1": {
+        "forehead": [
+            {
+                "start_time": 54.9142,
+                "end_time": 59.9064,
+                "variance": 31.758930901454775,
+                "drift": true
+            },
+            {
+                "start_time": 57.4103,
+                "end_time": 62.4025,
+                "variance": 51.78786727386796,
+                "drift": true
+            },
+            {
+                "start_time": 59.9064,
+                "end_time": 64.8986,
+                "variance": 20.35959741099689,
+                "drift": true
+            }
+        ],
+        "left_cheek": [
+            {
+                "start_time": 44.9298,
+                "end_time": 49.922,
+                "variance": 1.0634221655132317,
+                "drift": true
+            },
+            {
+                "start_time": 54.9142,
+                "end_time": 59.9064,
+                "variance": 136.20977127628495,
+                "drift": true
+            },
+            {
+                "start_time": 57.4103,
+                "end_time": 62.4025,
+                "variance": 161.38871860588662,
+                "drift": true
+            },
+            {
+                "start_time": 59.9064,
+                "end_time": 64.8986,
+                "variance": 39.17758146097626,
+                "drift": true
+            }
+        ],
+        "right_cheek": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.9922,
+                "variance": 1.695538994961999,
+                "drift": true
+            },
+            {
+                "start_time": 54.9142,
+                "end_time": 59.9064,
+                "variance": 43.07041053794333,
+                "drift": true
+            },
+            {
+                "start_time": 57.4103,
+                "end_time": 62.4025,
+                "variance": 71.12906621173578,
+                "drift": true
+            },
+            {
+                "start_time": 59.9064,
+                "end_time": 64.8986,
+                "variance": 27.923070277990707,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_2": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_3": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start_time": 27.1759,
+                "end_time": 32.1508,
+                "variance": 0.34156648592623456,
+                "drift": true
+            }
+        ],
+        "right_cheek": []
+    },
+    "Subject_4": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_5": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_6": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start_time": 14.8617,
+                "end_time": 19.8491,
+                "variance": 24.707881037665867,
+                "drift": true
+            }
+        ],
+        "right_cheek": [
+            {
+                "start_time": 14.8617,
+                "end_time": 19.8491,
+                "variance": 6.948556335741629,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_7": {
+        "forehead": [
+            {
+                "start_time": 2.4915,
+                "end_time": 7.4746,
+                "variance": 86.16951189090716,
+                "drift": true
+            },
+            {
+                "start_time": 4.983,
+                "end_time": 9.9661,
+                "variance": 103.86210934408831,
+                "drift": true
+            },
+            {
+                "start_time": 54.8135,
+                "end_time": 59.7966,
+                "variance": 365.2103163787454,
+                "drift": true
+            },
+            {
+                "start_time": 57.305,
+                "end_time": 62.2881,
+                "variance": 337.1651690154178,
+                "drift": true
+            },
+            {
+                "start_time": 62.2881,
+                "end_time": 67.2711,
+                "variance": 54.12180813950465,
+                "drift": true
+            }
+        ],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start_time": 54.8135,
+                "end_time": 59.7966,
+                "variance": 340.9531914486029,
+                "drift": true
+            },
+            {
+                "start_time": 57.305,
+                "end_time": 62.2881,
+                "variance": 310.72072151407053,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_8": {
+        "forehead": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.9949,
+                "variance": 35.2673172101384,
+                "drift": true
+            },
+            {
+                "start_time": 2.4802,
+                "end_time": 7.4751,
+                "variance": 51.757618553233776,
+                "drift": true
+            },
+            {
+                "start_time": 4.9604,
+                "end_time": 9.9553,
+                "variance": 65.28902363889371,
+                "drift": true
+            }
+        ],
+        "left_cheek": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.9949,
+                "variance": 15.913838666655886,
+                "drift": true
+            },
+            {
+                "start_time": 2.4802,
+                "end_time": 7.4751,
+                "variance": 7.503117232383356,
+                "drift": true
+            },
+            {
+                "start_time": 4.9604,
+                "end_time": 9.9553,
+                "variance": 9.758348550751009,
+                "drift": true
+            }
+        ],
+        "right_cheek": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.9949,
+                "variance": 79.81509667866634,
+                "drift": true
+            },
+            {
+                "start_time": 2.4802,
+                "end_time": 7.4751,
+                "variance": 69.54230932438335,
+                "drift": true
+            },
+            {
+                "start_time": 4.9604,
+                "end_time": 9.9553,
+                "variance": 105.19827759991915,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_9": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_10": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start_time": 57.1547,
+                "end_time": 62.1247,
+                "variance": 54.17116837416499,
+                "drift": true
+            },
+            {
+                "start_time": 59.6397,
+                "end_time": 64.6096,
+                "variance": 43.03360586280269,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_11": {
+        "forehead": [
+            {
+                "start_time": 9.8695,
+                "end_time": 14.838,
+                "variance": 16.451363870765885,
+                "drift": true
+            },
+            {
+                "start_time": 12.3369,
+                "end_time": 17.3054,
+                "variance": 35.12741092303484,
+                "drift": true
+            },
+            {
+                "start_time": 14.8042,
+                "end_time": 19.7728,
+                "variance": 15.915412114949325,
+                "drift": true
+            },
+            {
+                "start_time": 27.1411,
+                "end_time": 32.1096,
+                "variance": 8.748151786536164,
+                "drift": true
+            }
+        ],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_12": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_13": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start_time": 12.4268,
+                "end_time": 17.3975,
+                "variance": 20.281546972705954,
+                "drift": true
+            },
+            {
+                "start_time": 14.9122,
+                "end_time": 19.8829,
+                "variance": 24.945262700274437,
+                "drift": true
+            }
+        ],
+        "right_cheek": [
+            {
+                "start_time": 12.4268,
+                "end_time": 17.3975,
+                "variance": 36.96369018329189,
+                "drift": true
+            },
+            {
+                "start_time": 14.9122,
+                "end_time": 19.8829,
+                "variance": 28.51456390305873,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_14": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.9753,
+                "variance": 13.093694913741727,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_15": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_16": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start_time": 0.0,
+                "end_time": 4.978,
+                "variance": 3.4889546233016526,
+                "drift": true
+            }
+        ]
+    },
+    "Subject_17": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    }
+}
