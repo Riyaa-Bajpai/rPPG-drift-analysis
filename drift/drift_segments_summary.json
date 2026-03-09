@@ -1,0 +1,272 @@
+{
+    "Subject_1": {
+        "forehead": [
+            {
+                "start": 54.9142,
+                "end": 59.9064
+            },
+            {
+                "start": 57.4103,
+                "end": 62.4025
+            },
+            {
+                "start": 59.9064,
+                "end": 64.8986
+            }
+        ],
+        "left_cheek": [
+            {
+                "start": 44.9298,
+                "end": 49.922
+            },
+            {
+                "start": 54.9142,
+                "end": 59.9064
+            },
+            {
+                "start": 57.4103,
+                "end": 62.4025
+            },
+            {
+                "start": 59.9064,
+                "end": 64.8986
+            }
+        ],
+        "right_cheek": [
+            {
+                "start": 0.0,
+                "end": 4.9922
+            },
+            {
+                "start": 54.9142,
+                "end": 59.9064
+            },
+            {
+                "start": 57.4103,
+                "end": 62.4025
+            },
+            {
+                "start": 59.9064,
+                "end": 64.8986
+            }
+        ]
+    },
+    "Subject_2": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_3": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start": 27.1759,
+                "end": 32.1508
+            }
+        ],
+        "right_cheek": []
+    },
+    "Subject_4": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_5": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_6": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start": 14.8617,
+                "end": 19.8491
+            }
+        ],
+        "right_cheek": [
+            {
+                "start": 14.8617,
+                "end": 19.8491
+            }
+        ]
+    },
+    "Subject_7": {
+        "forehead": [
+            {
+                "start": 2.4915,
+                "end": 7.4746
+            },
+            {
+                "start": 4.983,
+                "end": 9.9661
+            },
+            {
+                "start": 54.8135,
+                "end": 59.7966
+            },
+            {
+                "start": 57.305,
+                "end": 62.2881
+            },
+            {
+                "start": 62.2881,
+                "end": 67.2711
+            }
+        ],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start": 54.8135,
+                "end": 59.7966
+            },
+            {
+                "start": 57.305,
+                "end": 62.2881
+            }
+        ]
+    },
+    "Subject_8": {
+        "forehead": [
+            {
+                "start": 0.0,
+                "end": 4.9949
+            },
+            {
+                "start": 2.4802,
+                "end": 7.4751
+            },
+            {
+                "start": 4.9604,
+                "end": 9.9553
+            }
+        ],
+        "left_cheek": [
+            {
+                "start": 0.0,
+                "end": 4.9949
+            },
+            {
+                "start": 2.4802,
+                "end": 7.4751
+            },
+            {
+                "start": 4.9604,
+                "end": 9.9553
+            }
+        ],
+        "right_cheek": [
+            {
+                "start": 0.0,
+                "end": 4.9949
+            },
+            {
+                "start": 2.4802,
+                "end": 7.4751
+            },
+            {
+                "start": 4.9604,
+                "end": 9.9553
+            }
+        ]
+    },
+    "Subject_9": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_10": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start": 57.1547,
+                "end": 62.1247
+            },
+            {
+                "start": 59.6397,
+                "end": 64.6096
+            }
+        ]
+    },
+    "Subject_11": {
+        "forehead": [
+            {
+                "start": 9.8695,
+                "end": 14.838
+            },
+            {
+                "start": 12.3369,
+                "end": 17.3054
+            },
+            {
+                "start": 14.8042,
+                "end": 19.7728
+            },
+            {
+                "start": 27.1411,
+                "end": 32.1096
+            }
+        ],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_12": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_13": {
+        "forehead": [],
+        "left_cheek": [
+            {
+                "start": 12.4268,
+                "end": 17.3975
+            },
+            {
+                "start": 14.9122,
+                "end": 19.8829
+            }
+        ],
+        "right_cheek": [
+            {
+                "start": 12.4268,
+                "end": 17.3975
+            },
+            {
+                "start": 14.9122,
+                "end": 19.8829
+            }
+        ]
+    },
+    "Subject_14": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start": 0.0,
+                "end": 4.9753
+            }
+        ]
+    },
+    "Subject_15": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    },
+    "Subject_16": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": [
+            {
+                "start": 0.0,
+                "end": 4.978
+            }
+        ]
+    },
+    "Subject_17": {
+        "forehead": [],
+        "left_cheek": [],
+        "right_cheek": []
+    }
+}
