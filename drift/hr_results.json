@@ -1,257 +1,257 @@
 {
     "Subject_1": {
         "forehead": {
-            "hr_before_drift": 102.23,
-            "hr_after_drift": 89.9
+            "hr_before_drift": 88.14,
+            "hr_after_drift": 93.7
         },
         "left_cheek": {
-            "hr_before_drift": 78.44,
-            "hr_after_drift": 69.63
+            "hr_before_drift": 87.14,
+            "hr_after_drift": 89.71
         },
         "right_cheek": {
-            "hr_before_drift": 134.84,
-            "hr_after_drift": 74.03
+            "hr_before_drift": 98.15,
+            "hr_after_drift": 96.02
         },
-        "final_hr": 74.03
+        "final_hr": 93.7
     },
     "Subject_2": {
         "forehead": {
-            "hr_before_drift": 104.42,
-            "hr_after_drift": 104.42
+            "hr_before_drift": 90.2,
+            "hr_after_drift": 90.2
         },
         "left_cheek": {
-            "hr_before_drift": 104.42,
-            "hr_after_drift": 104.42
+            "hr_before_drift": 88.86,
+            "hr_after_drift": 90.35
         },
         "right_cheek": {
-            "hr_before_drift": 121.45,
-            "hr_after_drift": 121.45
+            "hr_before_drift": 82.85,
+            "hr_after_drift": 82.85
         },
-        "final_hr": 104.42
+        "final_hr": 90.2
     },
     "Subject_3": {
         "forehead": {
-            "hr_before_drift": 92.53,
-            "hr_after_drift": 92.53
+            "hr_before_drift": 89.6,
+            "hr_after_drift": 91.0
         },
         "left_cheek": {
-            "hr_before_drift": 63.0,
-            "hr_after_drift": 63.0
+            "hr_before_drift": 86.87,
+            "hr_after_drift": 92.31
         },
         "right_cheek": {
-            "hr_before_drift": 69.89,
-            "hr_after_drift": 69.89
+            "hr_before_drift": 85.23,
+            "hr_after_drift": 85.23
         },
-        "final_hr": 69.89
+        "final_hr": 91.0
     },
     "Subject_4": {
         "forehead": {
-            "hr_before_drift": 111.68,
-            "hr_after_drift": 111.68
+            "hr_before_drift": 85.53,
+            "hr_after_drift": 84.81
         },
         "left_cheek": {
-            "hr_before_drift": 89.61,
-            "hr_after_drift": 89.61
+            "hr_before_drift": 100.53,
+            "hr_after_drift": 100.53
         },
         "right_cheek": {
-            "hr_before_drift": 116.88,
-            "hr_after_drift": 116.88
+            "hr_before_drift": 99.78,
+            "hr_after_drift": 99.78
         },
-        "final_hr": 111.68
+        "final_hr": 99.78
     },
     "Subject_5": {
         "forehead": {
-            "hr_before_drift": 111.75,
-            "hr_after_drift": 111.75
+            "hr_before_drift": 111.33,
+            "hr_after_drift": 111.18
         },
         "left_cheek": {
-            "hr_before_drift": 47.89,
-            "hr_after_drift": 47.89
+            "hr_before_drift": 85.25,
+            "hr_after_drift": 91.01
         },
         "right_cheek": {
-            "hr_before_drift": 61.2,
-            "hr_after_drift": 61.2
+            "hr_before_drift": 90.27,
+            "hr_after_drift": 92.43
         },
-        "final_hr": 61.2
+        "final_hr": 92.43
     },
     "Subject_6": {
         "forehead": {
-            "hr_before_drift": 68.19,
-            "hr_after_drift": 68.19
+            "hr_before_drift": 77.2,
+            "hr_after_drift": 75.46
         },
         "left_cheek": {
-            "hr_before_drift": 50.48,
-            "hr_after_drift": 50.48
+            "hr_before_drift": 82.21,
+            "hr_after_drift": 87.65
         },
         "right_cheek": {
-            "hr_before_drift": 61.11,
-            "hr_after_drift": 77.05
+            "hr_before_drift": 80.2,
+            "hr_after_drift": 85.15
         },
-        "final_hr": 68.19
+        "final_hr": 85.15
     },
     "Subject_7": {
         "forehead": {
-            "hr_before_drift": 70.19,
-            "hr_after_drift": 127.23
+            "hr_before_drift": 65.5,
+            "hr_after_drift": 68.35
         },
         "left_cheek": {
-            "hr_before_drift": 57.03,
-            "hr_after_drift": 57.03
+            "hr_before_drift": 58.5,
+            "hr_after_drift": 58.5
         },
         "right_cheek": {
-            "hr_before_drift": 48.26,
-            "hr_after_drift": 125.47
+            "hr_before_drift": 70.5,
+            "hr_after_drift": 73.06
         },
-        "final_hr": 125.47
+        "final_hr": 68.35
     },
     "Subject_8": {
         "forehead": {
-            "hr_before_drift": 65.68,
-            "hr_after_drift": 64.8
+            "hr_before_drift": 64.57,
+            "hr_after_drift": 65.85
         },
         "left_cheek": {
-            "hr_before_drift": 70.93,
-            "hr_after_drift": 68.31
+            "hr_before_drift": 67.07,
+            "hr_after_drift": 68.01
         },
         "right_cheek": {
-            "hr_before_drift": 65.68,
-            "hr_after_drift": 57.8
+            "hr_before_drift": 64.07,
+            "hr_after_drift": 65.81
         },
-        "final_hr": 64.8
+        "final_hr": 65.85
     },
     "Subject_9": {
         "forehead": {
-            "hr_before_drift": 108.95,
-            "hr_after_drift": 108.95
+            "hr_before_drift": 76.23,
+            "hr_after_drift": 76.03
         },
         "left_cheek": {
-            "hr_before_drift": 60.23,
-            "hr_after_drift": 60.23
+            "hr_before_drift": 85.26,
+            "hr_after_drift": 85.47
         },
         "right_cheek": {
-            "hr_before_drift": 49.6,
-            "hr_after_drift": 49.6
+            "hr_before_drift": 96.79,
+            "hr_after_drift": 102.97
         },
-        "final_hr": 60.23
+        "final_hr": 85.47
     },
     "Subject_10": {
         "forehead": {
-            "hr_before_drift": 85.21,
-            "hr_after_drift": 85.21
+            "hr_before_drift": 73.19,
+            "hr_after_drift": 70.96
         },
         "left_cheek": {
-            "hr_before_drift": 50.95,
-            "hr_after_drift": 50.95
+            "hr_before_drift": 71.19,
+            "hr_after_drift": 71.19
         },
         "right_cheek": {
-            "hr_before_drift": 50.95,
-            "hr_after_drift": 71.15
+            "hr_before_drift": 78.21,
+            "hr_after_drift": 81.78
         },
-        "final_hr": 71.15
+        "final_hr": 71.19
     },
     "Subject_11": {
         "forehead": {
-            "hr_before_drift": 76.57,
-            "hr_after_drift": 83.61
+            "hr_before_drift": 72.21,
+            "hr_after_drift": 69.72
         },
         "left_cheek": {
-            "hr_before_drift": 77.45,
-            "hr_after_drift": 77.45
+            "hr_before_drift": 78.73,
+            "hr_after_drift": 83.24
         },
         "right_cheek": {
-            "hr_before_drift": 96.81,
-            "hr_after_drift": 96.81
+            "hr_before_drift": 76.22,
+            "hr_after_drift": 77.43
         },
-        "final_hr": 83.61
+        "final_hr": 77.43
     },
     "Subject_12": {
         "forehead": {
-            "hr_before_drift": 110.44,
-            "hr_after_drift": 110.44
+            "hr_before_drift": 109.83,
+            "hr_after_drift": 109.83
         },
         "left_cheek": {
-            "hr_before_drift": 101.61,
-            "hr_after_drift": 101.61
+            "hr_before_drift": 108.83,
+            "hr_after_drift": 108.49
         },
         "right_cheek": {
-            "hr_before_drift": 55.66,
-            "hr_after_drift": 55.66
+            "hr_before_drift": 109.83,
+            "hr_after_drift": 109.5
         },
-        "final_hr": 101.61
+        "final_hr": 109.5
     },
     "Subject_13": {
         "forehead": {
-            "hr_before_drift": 63.67,
-            "hr_after_drift": 63.67
+            "hr_before_drift": 74.68,
+            "hr_after_drift": 74.31
         },
         "left_cheek": {
-            "hr_before_drift": 45.1,
-            "hr_after_drift": 51.29
+            "hr_before_drift": 68.17,
+            "hr_after_drift": 68.98
         },
         "right_cheek": {
-            "hr_before_drift": 73.39,
-            "hr_after_drift": 73.39
+            "hr_before_drift": 71.68,
+            "hr_after_drift": 66.61
         },
-        "final_hr": 63.67
+        "final_hr": 68.98
     },
     "Subject_14": {
         "forehead": {
-            "hr_before_drift": 98.56,
-            "hr_after_drift": 98.56
+            "hr_before_drift": 99.66,
+            "hr_after_drift": 99.43
         },
         "left_cheek": {
-            "hr_before_drift": 48.4,
-            "hr_after_drift": 48.4
+            "hr_before_drift": 99.16,
+            "hr_after_drift": 101.73
         },
         "right_cheek": {
-            "hr_before_drift": 84.48,
-            "hr_after_drift": 84.48
+            "hr_before_drift": 81.63,
+            "hr_after_drift": 85.99
         },
-        "final_hr": 84.48
+        "final_hr": 99.43
     },
     "Subject_15": {
         "forehead": {
-            "hr_before_drift": 53.61,
-            "hr_after_drift": 53.61
+            "hr_before_drift": 92.78,
+            "hr_after_drift": 88.44
         },
         "left_cheek": {
-            "hr_before_drift": 49.22,
-            "hr_after_drift": 49.22
+            "hr_before_drift": 80.75,
+            "hr_after_drift": 81.95
         },
         "right_cheek": {
-            "hr_before_drift": 52.74,
-            "hr_after_drift": 52.74
+            "hr_before_drift": 89.77,
+            "hr_after_drift": 98.76
         },
-        "final_hr": 52.74
+        "final_hr": 88.44
     },
     "Subject_16": {
         "forehead": {
-            "hr_before_drift": 90.23,
-            "hr_after_drift": 90.23
+            "hr_before_drift": 92.6,
+            "hr_after_drift": 91.64
         },
         "left_cheek": {
-            "hr_before_drift": 64.83,
-            "hr_after_drift": 64.83
+            "hr_before_drift": 88.59,
+            "hr_after_drift": 88.59
         },
         "right_cheek": {
-            "hr_before_drift": 87.61,
-            "hr_after_drift": 87.61
+            "hr_before_drift": 90.6,
+            "hr_after_drift": 88.61
         },
-        "final_hr": 87.61
+        "final_hr": 88.61
     },
     "Subject_17": {
         "forehead": {
-            "hr_before_drift": 87.34,
-            "hr_after_drift": 87.34
+            "hr_before_drift": 87.05,
+            "hr_after_drift": 87.05
         },
         "left_cheek": {
-            "hr_before_drift": 87.34,
-            "hr_after_drift": 87.34
+            "hr_before_drift": 86.55,
+            "hr_after_drift": 86.43
         },
         "right_cheek": {
-            "hr_before_drift": 58.23,
-            "hr_after_drift": 58.23
+            "hr_before_drift": 86.55,
+            "hr_after_drift": 86.96
         },
-        "final_hr": 87.34
+        "final_hr": 86.96
     }
 }
