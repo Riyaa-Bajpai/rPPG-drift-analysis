@@ -1,15 +1,15 @@
 {
     "module": "CV-2",
     "input_from": "CV-1",
-    "run_timestamp": "20260307_230010",
+    "run_timestamp": "20260312_120846",
     "subjects": {
         "Subject_1": {
-            "hr_bpm": 102.23,
+            "hr_bpm": 52.0,
             "method_used": "GREEN",
             "source_type": "video"
         },
         "Subject_2": {
-            "hr_bpm": 104.42,
+            "hr_bpm": 121.45,
             "method_used": "GREEN",
             "source_type": "video"
         },
@@ -19,7 +19,7 @@
             "source_type": "video"
         },
         "Subject_4": {
-            "hr_bpm": 111.68,
+            "hr_bpm": 90.91,
             "method_used": "GREEN",
             "source_type": "video"
         },
@@ -34,27 +34,27 @@
             "source_type": "video"
         },
         "Subject_7": {
-            "hr_bpm": 80.72,
+            "hr_bpm": 52.65,
             "method_used": "GREEN",
             "source_type": "video"
         },
         "Subject_8": {
-            "hr_bpm": 65.68,
+            "hr_bpm": 67.43,
             "method_used": "GREEN",
             "source_type": "video"
         },
         "Subject_9": {
-            "hr_bpm": 108.95,
+            "hr_bpm": 56.69,
             "method_used": "GREEN",
             "source_type": "video"
         },
         "Subject_10": {
-            "hr_bpm": 85.21,
+            "hr_bpm": 56.22,
             "method_used": "GREEN",
             "source_type": "video"
         },
         "Subject_11": {
-            "hr_bpm": 76.57,
+            "hr_bpm": 74.81,
             "method_used": "GREEN",
             "source_type": "video"
         },
@@ -64,7 +64,7 @@
             "source_type": "video"
         },
         "Subject_13": {
-            "hr_bpm": 63.67,
+            "hr_bpm": 48.63,
             "method_used": "GREEN",
             "source_type": "video"
         },
@@ -74,7 +74,7 @@
             "source_type": "video"
         },
         "Subject_15": {
-            "hr_bpm": 53.61,
+            "hr_bpm": 51.86,
             "method_used": "GREEN",
             "source_type": "video"
         },

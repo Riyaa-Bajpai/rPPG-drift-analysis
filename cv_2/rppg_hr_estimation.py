@@ -4,7 +4,7 @@ from scipy.signal import butter, filtfilt
 from scipy.fft import rfft, rfftfreq
 from datetime import datetime
 
-CV1_PATH = r"D:\project\rppg\cv1_output_20260307_132012.json"
+CV1_PATH = r"D:\programming\rPPg\cv_1\cv1_output.json"
 
 
 def bandpass(signal, fs):
@@ -78,7 +78,7 @@ def run_cv2():
 
         fps = 1 / np.mean(np.diff(time))
 
-        rppg = G - (0.5*R + 0.5*B)
+        rppg = G 
 
         rppg = rppg - np.mean(rppg)
 
@@ -98,7 +98,7 @@ def run_cv2():
             "source_type": source_type
         }
 
-    output_path = f"D:/project/rppg/cv2_output_{timestamp}.json"
+    output_path = r"D:\programming\rPPg\cv_2\cv2_output.json"
 
     with open(output_path, "w") as f:
         json.dump(output, f, indent=4)
