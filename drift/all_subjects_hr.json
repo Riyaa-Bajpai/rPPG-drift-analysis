@@ -1,0 +1,50 @@
+{
+    "Subject_1": {
+        "real_heart_rate_bpm": 96.68196032144651
+    },
+    "Subject_2": {
+        "real_heart_rate_bpm": 106.70456819650937
+    },
+    "Subject_3": {
+        "real_heart_rate_bpm": 101.17044419766796
+    },
+    "Subject_4": {
+        "real_heart_rate_bpm": 112.27390350877194
+    },
+    "Subject_5": {
+        "real_heart_rate_bpm": 111.24383283877349
+    },
+    "Subject_6": {
+        "real_heart_rate_bpm": 109.80887351778657
+    },
+    "Subject_7": {
+        "real_heart_rate_bpm": 96.21050384047268
+    },
+    "Subject_8": {
+        "real_heart_rate_bpm": 65.96596229260935
+    },
+    "Subject_9": {
+        "real_heart_rate_bpm": 107.10137115956393
+    },
+    "Subject_10": {
+        "real_heart_rate_bpm": 87.56820452310718
+    },
+    "Subject_11": {
+        "real_heart_rate_bpm": 82.213154685176
+    },
+    "Subject_12": {
+        "real_heart_rate_bpm": 111.37760751359367
+    },
+    "Subject_13": {
+        "real_heart_rate_bpm": 80.41242649272453
+    },
+    "Subject_14": {
+        "real_heart_rate_bpm": 93.86798530852106
+    },
+    "Subject_15": {
+        "real_heart_rate_bpm": 115.78668316831684
+    },
+    "Subject_16": {
+        "real_heart_rate_bpm": 91.79846341463416
+    }
+}
